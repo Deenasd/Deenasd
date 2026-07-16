@@ -16,6 +16,8 @@ Proficient in SQL, Python, JavaScript, ReactJS, Node.js, and AWS, with a strong 
 
 🔭 Data Science: Certified in Data Science and Engineering, with a focus on data analysis and system performance optimization.  
 
+https://olympus1.greatlearning.in/certificate/ZOSSEWIY
+
 🌱 I’m currently learning AI frameworks and agile process improvements
 
 🚀 Featured Case StudiesHealthcare Outpatient Journey Optimization – An AI-driven architecture designed to eliminate administrative bottlenecks and modernize clinical workflows.
